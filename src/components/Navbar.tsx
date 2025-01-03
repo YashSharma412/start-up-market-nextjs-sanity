@@ -42,6 +42,7 @@ const Navbar = async() => {
             )
           }
         </div>
+        
       </nav>
     </header>
   )
